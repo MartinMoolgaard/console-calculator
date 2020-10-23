@@ -129,6 +129,7 @@ while True:
     c = a+b
     output = "{}+{}={}".format(a,b,c)
     print(output)
+# Du er sku da smart mand
 
 
 
